@@ -2,6 +2,8 @@
 
 This repository contains the Streamlit frontend application that consumes the Book Review API backend. It provides a user-friendly interface for users to register, login, view books, add reviews, and manage their profiles.
 
+![Book-Muse](https://github.com/user-attachments/assets/9f6e1f41-c66b-4a25-9633-9245bbbb4738)
+
 ---
 
 ## Features
